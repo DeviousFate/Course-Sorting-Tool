@@ -1,1 +1,12 @@
 # Course-Sorting-Tool
+
+1. What was the problem you were solving in the projects for this course?
+  The primary problem was designing a course planner system that could efficiently store, organize, and retrieve information on courses and prerequisites for users. The system had to handle data input from files, quickly retrieve specific course details, and list available courses in a user-friendly manner.
+2. How did you approach the problem? Why are data structures important to understand?
+  To address these requirements, I approached the problem by selecting efficient data structures and programming techniques. Data structures like hash tables allowed us to store and retrieve course data in O(1) average time, which is crucial for applications requiring frequent lookups. Understanding data structures is key because it influences how efficiently a program can handle operations like searching, inserting, and managing data – all fundamental to software that prioritizes performance and scalability.
+3. How did you overcome any roadblocks you encountered while going through the activities or project?
+  Roadblocks mainly involved handling input validation and ensuring the file data loaded correctly. To overcome these, I implemented structured error handling and validation logic, particularly with input sanitization and buffer clearing techniques in C++. Testing and debugging were also crucial to identifying edge cases in data parsing, which improved the system’s reliability.
+4. How has your work on this project expanded your approach to designing software and developing programs?
+  This project expanded my approach to software design by reinforcing the importance of modular design. Breaking down the application into distinct functions for loading data, validating input, searching, and displaying information made it easier to manage and debug. It also highlighted the benefits of considering efficiency and scalability early in the design phase, especially when choosing data structures.
+5. How has your work on this project evolved the way you write programs that are maintainable, readable, and adaptable?
+  Working on this project refined my approach to writing maintainable code. I prioritized clear function names and structured comments, which made the code more readable and easier to understand at a glance. Furthermore, using data structures and algorithms that are adaptable to different data sizes made the program more scalable and ensured it could handle expansions or adjustments without major rewrites.
