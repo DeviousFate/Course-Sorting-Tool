@@ -1,6 +1,6 @@
-// CS 300 ProjectTwo.cpp : This file contains the 'main' function. Program execution begins and ends there.
+﻿// CS 300 ProjectTwo.cpp : This file contains the 'main' function. Program execution begins and ends there.
 // ::::::::::::::::::::::::::::
-// :: Author -- Thomas Cheek ::
+// :: Author -- Thomas C. ::
 // ::::::::::::::::::::::::::::
 
 #include <iostream>
